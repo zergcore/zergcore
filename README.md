@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @zergcore, a Software Engineer and Fullstack Developer from Venezuela.
-- 👀 I’m interested in python, R, machine learning, AI.
-- 🌱 I’m currently learning Django and Azure, but I know about Python, Flask, Javascrip, Typescript, React, Next, Angular, Node, Laravel, PHP, Bootstrap, Tailwind, CSS and SCSS. Sometime before I coded using R, Java, C++, ionic, and Vuejs.
-- 💞️ I’m looking to collaborate on projects, new ideas, startups.
+- 👀 I’m interested in python, react, AI.
+- 🌱 I’m currently learning Django and AWS, but I know about Python, Flask, Javascript, Typescript, React, Next, Angular, Node, Laravel, PHP, Bootstrap, Tailwind, CSS, and SCSS. Sometime before I coded using R, Java, C++, ionic, and Vuejs.
+- 💞️ I’m looking to collaborate on projects, new ideas, and startups.
 - 📫 How to reach me: find me in reddit as zergdeveloper, in telegram as zergcore, and my email is zergcoredev@gmail.com.
 
 <!--
