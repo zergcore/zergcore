@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="https://tenor.com/view/anime-computer-girl-typing-gif-7944313" width="150"/>
+  <img src="https://c.tenor.com/vMS8fFQR0OAAAAAC/tenor.gif" width="150"/>
 </div>
 <h1 align="center">
 Hi, I'm Zaidibeth 👋
