@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5yNmkxM3p4Z3p3ejdveXZ0dDA1b3l4eGE0dG51ZXFvZHp1c201dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/u2pmXtt6sYj4a1J63n/giphy.gif" width="150"/>
 </div>
 <h1 align="center">
 Hi, I'm Zaidibeth 👋
