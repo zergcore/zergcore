@@ -47,7 +47,6 @@ Hi, I'm Zaidibeth 👋
 </details>
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zergcore&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="zergcore's GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zergcore&layout=compact&locale=en&theme=tokyonight" alt="zergcore's top languages" />
 </p>
 <div align="center">
