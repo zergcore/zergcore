@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfAlUrJbA8/giphy.gif" width="150"/>
+  <img src="https://tenor.com/view/anime-computer-girl-typing-gif-7944313" width="150"/>
 </div>
 <h1 align="center">
 Hi, I'm Zaidibeth 👋
