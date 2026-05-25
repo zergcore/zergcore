@@ -11,7 +11,7 @@ Hi, I'm Zaidibeth 👋
 </p>
  * 🌱 I’m currently deepening my expertise in Django and AWS to build robust, cloud-native solutions.
  * 💞️ I'm open to collaborating on innovative open-source projects, exciting startups, and challenging new ideas. Let's build something amazing together!
- * 📫 You can reach me via email at zergcoredev@gmail.com or connect with me on my social platforms below.
+ * 📫 You can reach me via email at zaidibethramos@gmail.com or connect with me on my social platforms below.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:zergcoredev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="zergcoredev@gmail.com"/></a>
